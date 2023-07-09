@@ -8,13 +8,14 @@ Merhabalar, bu web sitesi projesi dijital oyunları online olarak satmak için o
 Hello, this website project is a sample project created to sell digital games online. There are sample images below.
 
 
-User / Kullanıcı
+### User / Kullanıcı
 
 ![loginpage](https://github.com/CanBagirhanUmit/WebsiteProject/assets/130563059/58e2ad8e-7592-4980-9db4-a341dbdc1873)
 ![homepage](https://github.com/CanBagirhanUmit/WebsiteProject/assets/130563059/0de3c1e1-0b3c-4dd8-8b9b-b1fc391c530a)
 ![gamespage](https://github.com/CanBagirhanUmit/WebsiteProject/assets/130563059/21bb4952-e065-458b-9fa5-803320231f7c)
 
-Admin Panel / Admin Paneli
+
+### Admin Panel / Admin Paneli
 
 ![adminlogin](https://github.com/CanBagirhanUmit/WebsiteProject/assets/130563059/b9f2025d-9791-4d1a-ae85-4ceb6155d3d1)
 ![adminhomepage](https://github.com/CanBagirhanUmit/WebsiteProject/assets/130563059/6fbe0763-e3a5-4a20-9d7c-365407cf3fec)
